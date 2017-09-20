@@ -20,9 +20,9 @@ I created a CNN using Keras that takes as input a 160x320 pixel image and predic
 
 [//]: # (Image References)
 
-[image1]: ./inputimg.png "Input"
-[image2]: ./cropping.png "Cropping"
-[image3]: ./pooling.png "Pooling"
+[image1]: ./inputimg.PNG "Input"
+[image2]: ./cropping.PNG "Cropping"
+[image3]: ./pooling.PNG "Pooling"
 
 
 ## Model Architecture and Training Strategy
